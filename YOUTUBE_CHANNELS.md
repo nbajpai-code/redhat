@@ -1,30 +1,24 @@
-# YouTube Channels & Playlists (EX200)
+# YouTube Channels (RHCSA & RHCE)
 
-YouTube is an excellent source for free tutorials and exam walkthroughs.
+## Red Hat Certified System Administrator (RHCSA) - EX200
 
-## Top Channels
+### Top Channels for EX200
+*   **[Ozzoy Bits - RHCSA](https://www.youtube.com/@ozzoybits)** - Excellent, focused content on RHCSA topics.
+*   **[Haruna Adoga - RHCSA Study Guide](https://www.youtube.com/@hadoga)** - Detailed study guides and exam walkthroughs.
+*   **[Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)** - General Linux administration (Jay LaCroix), great for fundamentals.
+*   **[NetworkChuck](https://www.youtube.com/c/NetworkChuck)** - Concepts explained simply (supplementary).
+*   **[TutorialsPoint - Red Hat](https://www.youtube.com/user/TutorialsPoint)** - Comprehensive tutorials.
 
-### 1. **[Ozzoy Bits](https://www.youtube.com/@OzzoyBits)**
-*   **Focus:** Detailed exam preparation, often focusing on RHEL 9 and 10.
-*   **Best For:** Real-world exam scenarios and step-by-step solutions.
-*   **Key Playlist:** "RHCSA 9/10 Exam Prep: Real EX200 Questions & Step-by-Step Solutions (2025)"
+---
 
-### 2. **[Haruna Adoga](https://www.youtube.com/@harunaadoga)**
-*   **Focus:** Hands-on labs and tutorials.
-*   **Best For:** Following along with practical examples. excellent hands-on RHCSA playlist.
+## Red Hat Certified Engineer (RHCE) - EX294
 
-### 3. **[beanologi](https://www.youtube.com/@beanologi)**
-*   **Focus:** Specific, tricky exam topics.
-*   **Best For:** Deep dives into SELinux, password recovery, and other critical failing points.
+### Top Channels for EX294 (Ansible)
+*   **[ThankYous - Tech](https://www.youtube.com/@ThankYous-Tech)** - **RHCE 9/10 Exam Prep: Real EX294 Questions & Step-by-Step Solutions (2025)**. Highly relevant and updated.
+*   **[UTCLISolutions - Imran Afzal](https://www.youtube.com/@UTCLISolutions)** - **"Master Linux Red Hat Certified Engineer (RHCE - EX294)"**. Comprehensive series with solid practical insights.
+*   **[Techno Tim](https://www.youtube.com/channel/UCrul8TyD11BjTeUWHX0jx4Q)** - Great for homelab setups and automation (Ansible/Kubernetes) which helps with the "feel" of automation.
+*   **[Jeff Geerling](https://www.youtube.com/user/geerlingguy)** - Although not strictly "exam prep", Jeff Geerling is the "Ansible Guy". His "Ansible 101" series is arguably the best free resource to truly *understand* Ansible deeply.
 
-### 4. **[TechTalk HQ](https://www.youtube.com/@TechTalkHQ)**
-*   **Focus:** Exam environment simulation.
-*   **Best For:** Understanding exactly what the exam interface and environment look like (RHEL 9.x based).
-
-### 5. **[Cloud AI Tech](https://www.youtube.com/@CloudAITech)**
-*   **Focus:** Strategy and tips.
-*   **Best For:** Exam-taking strategies and common pitfalls to avoid for a first-attempt pass.
-
-## Search Tips
-*   Search for "RHCSA RHEL 9 practice exam" or "RHCSA RHEL 10 practice exam".
-*   Look for videos uploaded within the last 12 months to ensure relevance.
+### Specific Playlists to Watch
+*   Search for **"Ansible for Beginners"** by Jeff Geerling.
+*   Look for **"RHCE 9 Exam Preparation"** playlists updated in late 2024/2025.

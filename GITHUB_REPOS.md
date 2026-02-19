@@ -1,29 +1,32 @@
-# GitHub Repositories (EX200)
+# GitHub Repositories (RHCSA - EX200 & RHCE - EX294)
 
-GitHub hosts excellent community-driven notes and cheat sheets.
+## EX294 (RHCE) - Ansible Automation Resources
 
-## Top Repositories
+GitHub is essential for RHCE practice as it hosts extensive playbook examples and lab simulations.
 
-### 1. **[fdicarlo/RHCSA_cs](https://github.com/fdicarlo/RHCSA_cs)**
-*   **Description:** A collaborative "Cheat Sheet" for quick reference.
-*   **Best For:** High-level review before the exam.
+### Key Repositories
+*   **[Abdulhamid97Mousa/RHCE-EX294](https://github.com/Abdulhamid97Mousa/RHCE-EX294)** - Comprehensive study guide and exercises for Ansible (RHEL 9).
+*   **[x69van/rhce9-ex294-practice-lab](https://github.com/x69van/rhce9-ex294-practice-lab)** - Simulation environment with six nodes for realistic hands-on practice.
+*   **[rd-break-fix/ansible-rhce-ex294-guide](https://github.com/rd-break-fix/ansible-rhce-ex294-guide)** - Break-fix scenarios (excellent for troubleshooting).
+*   **[sandervanvugt/rhCE8-review](https://github.com/sandervanvugt/rhce8-review)** - Sander van Vugt's review questions (still relevant for core concepts).
 
-### 2. **[Web Asha Technologies RHCSA Cheat Sheet](https://github.com/webasha/rhcsa-cheat-sheet)**
-*   **Description:** Updated for 2026/RHEL 9/10, covers essential commands and configurations.
-*   **Best For:** Quick command reference (user management, permissions, networking).
+### Topics to Search
+*   `rhce-ex294-study-guide`
+*   `rhce-exam`
+*   `ansible-automation-platform`
+*   `ansible-playbook-examples`
 
-### 3. **[Abdulhamid97Mousa/RHCSA-EX200](https://github.com/Abdulhamid97Mousa/RHCSA-EX200)**
-*   **Description:** Comprehensive study notes covering all major exam objectives.
-*   **Best For:** Detailed study guide if you prefer reading code/markdown over videos.
+---
 
-### 4. **[thelinuxlighthouse/RHCSA](https://github.com/thelinuxlighthouse/RHCSA)**
-*   **Description:** Structured summaries and key takeaways, organized by topic.
-*   **Best For:** Step-by-step commands and practical exercises.
+## EX200 (RHCSA) - System Administration Resources
 
-### 5. **[morsonluke/linux-rhcsa](https://github.com/morsonluke/linux-rhcsa)**
-*   **Description:** Personal notes from a successful candidate.
-*   **Best For:** Real-world perspective on what to study.
+### Study Guides & Cheat Sheets
+*   **[AsgharLabs/RHCSA-8-Study-Guide](https://github.com/AsgharLabs/RHCSA-8-Study-Guide)** - Detailed notes (check for RHEL 9 updates).
+*   **[rdbreak/rhcsa8env](https://github.com/rdbreak/rhcsa8env)** - Environment setup for practice labs.
+*   **[unixerius/RHCSA-9-Notes](https://github.com/unixerius/RHCSA-9-Notes)** - Community notes specifically for RHEL 9.
 
-## Usage Tips
-*   Clone these repositories to your local machine: `git clone <repo_url>`
-*   Use them to verify your own notes—don't just rely on them blindly! Writing your own cheat sheet is the best way to learn.
+### Practice Exams
+*   **[GitHub Topics: rhcsa-practice-exam](https://github.com/topics/rhcsa-practice-exam)** - Always verify against official objectives as community exams may vary in quality.
+
+### Lab Setup Automation
+*   Look for Vagrantfiles or Terraform scripts that spin up RHEL/CentOS/AlmaLinux boxes quickly for resetting your environment.
