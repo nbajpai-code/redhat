@@ -7,6 +7,9 @@ Welcome to the comprehensive resource collection for Red Hat certification exams
 ### 1. [Red Hat Certified System Administrator (RHCSA) - EX200](OFFICIAL_RESOURCES.md#red-hat-certified-system-administrator-rhcsa---ex200)
 The foundation for all Red Hat certifications. Covers essential system administration tasks.
 
+Here’s what I learned the hard way: • Don’t listen blindly to “gurus” who say you can pass in a week — you need real hands-on practice. • Practice systemctl, LVM, firewall-cmd, networking, and user management until they become muscle memory. • Spin up your own RHEL 9 or AlmaLinux lab in VirtualBox or VMware — that’s where the real learning happens. • Watch Sander van Vugt’s videos and follow along. His labs are gold. • Time yourself — you only have 2.5 hours in the exam, and every minute counts.
+
+
 ### 2. [Red Hat Certified Engineer (RHCE) - EX294](OFFICIAL_RESOURCES.md#red-hat-certified-engineer-rhce---ex294)
 Focuses on automation using Ansible. Prerequisite: RHCSA.
 
