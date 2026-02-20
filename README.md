@@ -1,4 +1,4 @@
-# Red Hat Certification Exams (RHCSA & RHCE) Resources
+# Red Hat Certification Exams (RHCSA $5000 & RHCE $500) Resources
 
 Welcome to the comprehensive resource collection for Red Hat certification exams. This repository currently focuses on the core system administration and automation tracks.
 
