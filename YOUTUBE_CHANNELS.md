@@ -1,5 +1,7 @@
 # YouTube Channels (RHCSA & RHCE)
 
+> **Looking for recent talks and tutorials?** Check out [RHEL_TALKS.md](./RHEL_TALKS.md) for an automatically updated list of the latest YouTube videos on RHEL 9/10, RHCSA, RHCE, and Ansible.
+
 ## Red Hat Certified System Administrator (RHCSA) - EX200
 
 ### Top Channels for EX200
